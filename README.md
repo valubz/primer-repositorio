@@ -1,0 +1,1 @@
+crea main.py dice
